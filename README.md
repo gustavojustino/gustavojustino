@@ -1,6 +1,5 @@
 <h2 align="center">### Olá, me chamo Luis Gustavo. ###</h2>
 <h3 align="center"> Bem vindo ao meu perfil do GitHub 👋</h3>
-
 <p align="center">:mortar_board: Atualmente sou estudante de Analise e Desenvolvimento de sistemas na Universidade Paulista :mortar_board:
 
 Gostaria de compartilhar através do github, um pouco sobre minhas experiências e minhas vivências com as linguagens de programação, assim como mostrar, o que tenho extraido através das tecnologias que ainda estão sendo estudadas.</p>
@@ -11,7 +10,7 @@ Gostaria de compartilhar através do github, um pouco sobre minhas experiências
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 
-<p align="center" id="post-two"> :blue_book: Tenho estudado:</p>
+<p align="center" id="post-two"> :blue_book: Linguagens e tecnologias sendo estudadas:</p>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
           
