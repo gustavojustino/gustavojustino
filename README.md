@@ -3,18 +3,21 @@
 <p align="center">:mortar_board: Atualmente sou estudante de Analise e Desenvolvimento de sistemas na Universidade Paulista :mortar_board:
 
 Gostaria de compartilhar através do github, um pouco sobre minhas experiências e minhas vivências com as linguagens de programação, assim como mostrar, o que tenho extraido através das tecnologias que ainda estão sendo estudadas.</p>
-<p align="center" id="post-one"> :wrench: Linguagens e tecnologias:</p>
+<p align="center" id="post-one"> :wrench: Tecnologias:</p>
 
-
+<p align="center" id="list-tech">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png"/>
+</p>
 
-<p align="center" id="post-two"> :blue_book: Linguagens e tecnologias sendo estudadas:</p>
+<p align="center" id="post-two"> :blue_book: Tecnologias que estou estudando:</p>
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
-          
+<p align="center" id="study-tech">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
+</p> 
+ 
 <p align="center" id="post-three"> 📫 Meus contatos:</p>
 
 <div align="center" id="contact">
