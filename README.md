@@ -1,6 +1,6 @@
 <h3 align="center"> Bem vindo ao meu perfil do GitHub 👋</h3>
 
-Gostaria de compartilhar através do github, um pouco sobre minhas experiências e projetos pessoais, assim como, mostrar o que tenho extraido das tecnologias que ainda estão venho estudando.</p>
+Gostaria de compartilhar através do github, um pouco sobre minhas experiências e projetos pessoais, assim como, mostrar o que tenho extraido das tecnologias que ainda venho estudando.</p>
 <p align="center" id="post-one"> :wrench: Tecnologias:</p>
 
 <p align="center" id="list-tech">
