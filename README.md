@@ -1,8 +1,6 @@
-<h2 align="center">### Olá, me chamo Luis Gustavo. ###</h2>
 <h3 align="center"> Bem vindo ao meu perfil do GitHub 👋</h3>
-<p align="center">:mortar_board: Atualmente sou estudante de Analise e Desenvolvimento de sistemas na Universidade Paulista :mortar_board:
 
-Gostaria de compartilhar através do github, um pouco sobre minhas experiências e minhas vivências com as linguagens de programação, assim como mostrar, o que tenho extraido através das tecnologias que ainda estão sendo estudadas.</p>
+Gostaria de compartilhar através do github, um pouco sobre minhas experiências e projetos pessoais, assim como, mostrar o que tenho extraido das tecnologias que ainda estão venho estudando.</p>
 <p align="center" id="post-one"> :wrench: Tecnologias:</p>
 
 <p align="center" id="list-tech">
