@@ -1,19 +1,16 @@
 <h3 align="center"> Bem vindo ao meu perfil do GitHub 👋</h3>
 
 <div align="center"><p>
- Olá, pessoal. Sou o Luis Gustavo, desenvolvedor Fullstack e iniciei minha imersão no mundo da programação em 2021, desde então venho buscando o aperfeiçoamento profissional.
-Através desta conta do Github, compartilharei, minhas experiências e projetos pessoais, como portfólio, desafios, entre outros. Dessa forma, situar o que venho extraindo das ferramentas de tecnologia que venho estudando e traçar uma coerente observabilidade da minha curva de aprendizado.</p></div>
-<p align="center" id="post-one"> :wrench: Tecnologias:</p>
+ Olá, pessoal. Sou o Luis Gustavo, desenvolvedor de software com enfâse em web imerso no mundo da programação desde 2021, aqui você encontrará meus projetos e contribuições.
+Através desta conta do Github, estará disponível, algumas experiências com projetos pessoais, projetos em grupo, desafios, entre outros. Dessa forma, contextualizar minha habilidade com ferramentas de tecnologias que venho estudando ao longo do tempo.</p></div>
+<p align="center" id="post-one">Tecnologias:</p>
 
 <p align="center" id="list-tech">
-<img src="https://img.icons8.com/color/48/javascript--v1.png" width="40" alt="Javascript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" alt="CCS3"/>
-<img src="https://img.icons8.com/color/48/nodejs.png" width="40" alt="NodeJS"/>
-<img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v1.png" width="40" alt="Java"/>
-<img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" alt="amazon-web-services"/>
-<img src="https://img.icons8.com/color/48/mysql--v1.png" width="40" alt="mysql--v1"/>
+<img src="https://img.icons8.com/color/48/javascript--v1.png" width="40" alt="Javascript"/>   
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java"/>   
+<img src="https://img.icons8.com/color/48/postgreesql.png" width="40" alt="postgres"/>   
+<img src="https://img.icons8.com/color/48/mysql-logo.png" width="40" alt="mysql"/>   
+<img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
 </p>
 
 
