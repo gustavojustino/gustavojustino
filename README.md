@@ -1,7 +1,7 @@
 <h3 align="center"> Bem vindo ao meu perfil do GitHub 👋</h3>
 
 <div align="center"><p>
- Olá, pessoal. Sou o Luis Gustavo, desenvolvedor de software com enfâse em web imerso no mundo da programação desde 2021, aqui você encontrará meus projetos e contribuições.
+ Olá, pessoal. Sou o Luis Gustavo, desenvolvedor de software com enfâse em soluções web imerso no mundo da programação desde 2021, aqui você encontrará meus projetos e contribuições.
 Através desta conta do Github, estará disponível, algumas experiências com projetos pessoais, projetos em grupo, desafios, entre outros. Dessa forma, contextualizar minha habilidade com ferramentas de tecnologias que venho estudando ao longo do tempo.</p></div>
 <p align="center" id="post-one">Tecnologias:</p>
 
